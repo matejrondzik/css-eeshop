@@ -1,0 +1,73 @@
+.riadok-nadpis-produktu {
+    margin-top: 4rem;
+}
+
+.nadpis-produktu {
+    font-style: oblique;
+    text-align: left;
+    color: #f15825;
+    margin-top: 5rem;
+}
+
+.obrazok-produktu-div {
+margin-top: 3rem;
+}
+
+.obrazok-produktu {
+    width: 100%;
+}
+
+.vlastnosti-produktu-div {
+margin-top: 3.5rem;
+}
+
+.vlastnosti-produktu {
+
+}
+
+.cena-div{
+    margin-top: 3rem;
+}
+
+.cena{
+    font-size: 2rem;
+    color: #f15825;
+}
+
+.riadok-popis{
+    margin-top: 5.5rem;
+}
+
+.kosik-button-div{
+    margin-left: 9.5rem;
+    margin-top: -2.6rem;
+}
+
+.kosik-button{
+    background-color: #f15825;
+    color: white;
+    width: 13rem;
+    height: 2.25rem;
+    border-style: solid;
+    border-width: 0.25rem;
+    border-color: #f15825;
+    transition: transform 0.7s;
+}
+
+.img-kosik{
+    width: 1.5rem;
+    margin-right: 1rem;
+    margin-left: 0.5rem;
+    margin-top: 0.1rem;
+    margin-bottom: 0.2rem;
+}
+
+.kosik-button:hover{
+    border-color: #9d3b1a;
+    transform: translateY(-2px);
+    border-width: ;
+}
+
+.zoznam-vlastnosti{
+    margin-top: 2rem;
+}

@@ -1,0 +1,167 @@
+.riadok-produkty {
+    margin-top: 4rem;
+}
+
+.nadpis-podstranky{
+    color: white;
+    font-size: 2.5rem;
+    margin-top: 4rem;
+    font-family: Candara;
+}
+
+.produkt-div {
+    width: 100%;
+    display: block;
+    transition: transform 0.5s;
+}
+
+.produkt-div:hover {
+    border-style: solid;
+    border-width: 0.17rem;
+    border-color: #f15825;
+    transform: translateY(-2.4px);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.produkt-obrazok-div {
+    margin-left: 2%;
+
+}
+
+.prepojenie {
+    text-decoration: none;
+    color: black;
+}
+
+.prepojenie:hover {
+    color: black;
+}
+
+.produkt-obrazok {
+    width: 98%;
+    text-decoration: none;
+}
+
+.nadpis-produkt-div {
+    width: 98%;
+    margin-left: 1%;
+}
+
+.nadpis-produkt {
+    text-align: center;
+    text-decoration: none;
+}
+
+.text-produkt-div {
+    width: 98%;
+    margin-left: 1%;
+
+}
+
+.text-produkt {
+    text-align: justify;
+    text-decoration: none;
+}
+
+.cena-produkt-div {
+    width: 100%;
+    margin-top: 0.2rem;
+}
+
+
+.nova-cena {
+    text-align: center;
+    color: #f15825;
+    margin-top: 0.4rem;
+}
+
+.nadpis-riadok {
+    text-align: center;
+    padding-bottom: 3rem;
+    font-style: oblique;
+}
+
+.riadok-produkty-2 {
+    margin-top: 6rem;
+    padding-bottom: 3rem;
+}
+
+.riadok-nadpis-mobily{
+    background-image: url("../img/nadpis-banner-mobily.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-pocitace{
+    background-image: url("../img/nadpis-banner-pocitace.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-tablety{
+    background-image: url("../img/nadpis-banner-tablety.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-televizory{
+    background-image: url("../img/nadpis-banner-tv.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-mikrovlnky{
+    background-image: url("../img/nadpis-banner-mikrovlnky.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-o-nas{
+    background-image: url("../img/nadpis-banner-o-nas.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.riadok-nadpis-doprava{
+    background-image: url("../img/nadpis-banner-doprava.png");
+    height: 12.8rem;
+    width: 100.6%;
+    margin-top: 3rem;
+}
+
+.container-form{
+    margin-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.ano\/nie{
+    margin-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.cena{
+    text-align: center;
+}
+
+.polozka-zdroj{
+    text-decoration: none;
+    color: black;
+}
+
+.polozka-zdroj:hover{
+    color: #0a53be;
+}
+
+.container-produkt{
+    margin-top: 5rem;
+}
+
+
+

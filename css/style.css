@@ -1,0 +1,194 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-family: Arial;
+}
+
+.vrchna-lista {
+    background-color: #f15825;
+}
+
+.kontakt-vrchna-lista {
+
+}
+
+.mobil-ikona {
+    width: 1.3rem;
+    padding-bottom: 0.3rem;
+    display: inline-block;
+    margin-top: 0.3rem;
+}
+
+.mobilne-cislo {
+    color: white;
+    display: inline-block;
+    margin-top: 0.8rem;
+    margin-left: 1.5rem;
+}
+
+.gps-mark {
+    width: 1.1rem;
+    padding-bottom: 0.3rem;
+    display: inline-block;
+    margin-top: 0.3rem;
+    margin-left: 1.8rem;
+}
+
+.adresa-vrchna-lista {
+    color: white;
+    display: inline-block;
+    margin-top: 0.8rem;
+    margin-left: 1.5rem;
+}
+
+.pozadie-domov {
+    background-image: url("../img/banner.png");
+    margin-top: 3rem;
+}
+
+.riadok-logo-menu {
+    margin-top: 2rem;
+    width: 100%;
+}
+
+.logo {
+    width: 10.5rem;
+    cursor: pointer;
+}
+
+nav {
+    margin-top: 2.8rem;
+}
+
+.btn-zlavy {
+    border-width: 0.15rem;
+    border-color: #f15825;
+    color: #f15825;
+    width: 12rem;
+    height: 2.5rem;
+    border-radius: 0.5rem;
+    transition: transform 0.5s;
+}
+
+.btn-zlavy:hover {
+    transform: translateY(-3.5px);
+    border-width: 0.22rem;
+    font-weight: bold;
+}
+
+.row-btn {
+    padding-top: 30rem;
+    padding-bottom: 6rem;
+}
+
+#riadok-produkty {
+    margin-top: 0rem;
+}
+
+.produkt-zlava-div {
+    width: 100%;
+    display: block;
+    transition: transform 0.5s;
+
+}
+
+.produkt-zlava-div:hover {
+    border-style: solid;
+    border-width: 0.17rem;
+    border-color: #f15825;
+    transform: translateY(-2.4px);
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.produkt-obrazok-zlava-div {
+ width: 70%;
+    margin-left: 15%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.prepojenie-zlava {
+    text-decoration: none;
+    color: black;
+}
+
+.prepojenie-zlava:hover {
+    color: black;
+}
+
+.produkt-obrazok-zlava {
+    width: 98%;
+    text-decoration: none;
+}
+
+.nadpis-produkt-zlava-div {
+    width: 98%;
+    margin-left: 1%;
+
+}
+
+.nadpis-produkt-zlava {
+    text-align: center;
+    text-decoration: none;
+    font-weight: 550;
+}
+
+.text-produkt-zlava-div {
+    width: 90%;
+    margin-left: 3%;
+
+}
+
+.text-produkt-zlava {
+    text-align: justify;
+    text-decoration: none;
+}
+
+.cena-produkt-zlava-div {
+    width: 99%;
+    margin-top: 0.2rem;
+
+}
+
+.stara-cena {
+    color: rgba(5, 33, 54, 255);
+    background-image: url("../img/skrt.png");
+    width: 4rem;
+    text-align: center;
+    display: inline-block;
+}
+
+.nova-cena {
+    text-align: center;
+    color: #f15825;
+    display: inline-block;
+    margin-left: 4rem;
+
+}
+
+.nadpis-riadok-zlavy {
+    text-align: center;
+    padding-bottom: 3rem;
+    font-style: oblique;
+}
+
+.orange {
+    color: #f15825;
+}
+
+.row-nadpis{
+    margin-top: 3rem;
+}
+
+.footer{
+    background-color: #393939;
+    margin-top: 6rem;
+}
+
+.footer-text{
+    color: white;
+    padding-top: 0.5rem;
+    padding-bottom: 0.2rem;
+    font-weight: 100;
+    text-align: right;
+    margin-right: 2rem;
+}
