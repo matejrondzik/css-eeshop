@@ -155,7 +155,7 @@
     color: black;
 }
 
-.polozka-zdroj:hover{
+.polozka-zdroj:focus{
     color: #0a53be;
 }
 
